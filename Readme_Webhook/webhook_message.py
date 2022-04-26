@@ -24,7 +24,7 @@ def send_message(url):
     assert response.status_code == 200
 
 # Passando a URL que foi criado no app
-send_message("https://hooks.slack.com/services/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")
+send_message("")
 
 
 

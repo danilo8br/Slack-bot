@@ -1,5 +1,5 @@
 {
-    "url": "https://hooks.slack.com/services/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",
+    "url": "",
     "emoji_sucesso": "emoji.emojize(':white_check_mark:')",
     "emoji_falha": "emoji.emojize(':warning:')",
     "emoji_atencao": "emoji.emojize(':yellow_circle:')",
