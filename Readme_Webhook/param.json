@@ -1,0 +1,7 @@
+{
+    "url": "https://hooks.slack.com/services/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",
+    "emoji_sucesso": "emoji.emojize(':white_check_mark:')",
+    "emoji_falha": "emoji.emojize(':warning:')",
+    "emoji_atencao": "emoji.emojize(':yellow_circle:')",
+    "mensagem": "Bom dia grupo"
+}
