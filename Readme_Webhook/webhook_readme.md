@@ -28,9 +28,11 @@ Para criar um webhook no Slack, primeiramente tem que ter um workspace criado.
 
 ### Clique em "New App".
 
+---
+
 ![Passo3](https://user-images.githubusercontent.com/51414398/165333574-457a860c-f076-4eb0-89b7-9d93bd2291b4.PNG)
 
----
+
 
 
 ### Selecione "From Scratch".
