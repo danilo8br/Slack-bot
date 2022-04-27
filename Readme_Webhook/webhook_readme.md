@@ -11,9 +11,11 @@ Webhook é uma forma de recebimento de informações, que são passadas quando u
 Para criar um webhook no Slack, primeiramente tem que ter um workspace criado.
 
 ## Como configurar Webhook?
----
+
 
 ### Clique no menu do seu workspace, selecione "Administração" e depois "Gerenciar apps"
+
+---
 
 ![Passo1](https://user-images.githubusercontent.com/51414398/165332255-5e35fb3b-a914-4179-a8c8-17b1f6abd02b.png)
 
