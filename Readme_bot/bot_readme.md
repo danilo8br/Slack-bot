@@ -74,4 +74,4 @@ Para criar um Bot no Slack, primeiramente tem que ter um workspace criado.
 
 ### Script do Bot
 
-- [Script](Readme_bot/subir_arquivos_bot.py)
+- [Script](Readme_bot/subir_arquivos_bot.py/)
