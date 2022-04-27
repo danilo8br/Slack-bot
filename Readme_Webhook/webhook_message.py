@@ -18,7 +18,7 @@ def send_message(url):
     emoji_alerta = emoji.emojize(':warning:')
     emoji_sucesso = emoji.emojize(':white_check_mark:')
     emoji_circulo_amarelo = emoji.emojize(':yellow_circle:')
-    mensagem = f'{emoji_circulo_amarelo} - Alerta de Integração da Caixa\nOs valores estão abaixo de 5% nos últimos 15 minutos. TESTE'
+    mensagem = f'{emoji_circulo_amarelo} - Alerta'
 
     response = webhook.send(text=mensagem)
     assert response.status_code == 200
