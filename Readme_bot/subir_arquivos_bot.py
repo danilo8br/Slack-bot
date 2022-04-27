@@ -23,8 +23,11 @@ def bot_file(canal_slack, arquivo):
 
     client = slack.WebClient(token=os.environ['SLACK_TOKEN'])
 
+    # Enviar mensagem
+    # client.chat_postMessage(channel='', text='')
     client.files_upload(channels=canal_slack, file=arquivo)
 
-bot_file('#testenovo', 'Arquivos_teste/Figure_1.png')
+
+bot_file('canal', 'arquivo')
 
 
