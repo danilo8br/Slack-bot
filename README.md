@@ -10,8 +10,8 @@
 
 ## 📖 Sumário
 
-- [Configurando Webhook](Readme_Webhook/)
-- [Configurando o Bot](Readme_bot)
+- [Configurando Webhook](Webhook/)
+- [Configurando o Bot](Bot/)
 
 ## :rocket: Sobre o Projeto
 
